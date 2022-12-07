@@ -1,6 +1,6 @@
 # Final Project - Introductory_course
 
-**For the full performance of verification work, it is necessary:**
+**In order to do this work it is necessary:**
 - Create a repository on GitHub.
 - Draw a block diagram of the algorithm.
 - Provide a formalized text description of the solution to the repository (file README.md).
@@ -12,7 +12,7 @@
 Write a program that from the existing array of strings forms a new array of strings whose length is less than or equal to 3 characters.
 The initial array can be entered from the keyboard, or set at the start of the algorithm execution.
 
-\* **Описание решения задачи (пункт 4 - написание программы):**
+\* **Описание решения задачи:**
 
 1. Ввод массива пользователем. Рандомный выбор размерности массива от 1 до 5, ввод пользователем с клавиатуры поэлементно. Ввод массива реализуется с помощью метода.
 2. Расчет размерности нового массива, который будет содержать элементы массива, введенного пользователем, состоящие не более чем из 3-х символов. Расчет путем перебора всех элементов стартового массива с условием установленного количества символов. Расчет реализуется с помощью метода.
